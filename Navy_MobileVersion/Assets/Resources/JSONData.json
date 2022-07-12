@@ -1,0 +1,162 @@
+{
+    "scenarioOne": [
+        {
+            "QuestionIndex": 0,
+            "Question": "Two (2) country Orange aircraft take off from mix use airport. They go up to 35,000 feet at a speed of 500 kts bearing away from HVT.", 
+            "OptionOne": "Make friendly",
+            "OptionTwo": "Maintain unk verify IFF and flight data",
+            "OptionThree": "Ask the strike group for ID",
+            "OptionFour": "Maintain unknown",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 1,
+            "Question": "Aircraft deviate from flight plan turn 30 degrees towards HVT increase speed 550kts, maintain altitude, does not respond to communication from HYT 150 NM from HVT.", 
+            "OptionOne": "Make aircraft hostile targets.",
+            "OptionTwo": "Query the aircraft over other channels, move good guys to CAP 50nm between aircraft and HVT",
+            "OptionThree": "Ask strike group for recommendations",
+            "OptionFour": "Recommend strike group ID aircraft as hostile",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 2,
+            "Question": "At 100NM from HVT aircrafts drops elevation to 12,000 feet, increases speed 600kts, squawks military aircraft, and have an inbound bearing on HVT.", 
+            "OptionOne": "Ask for pilot’s recommendations",
+            "OptionTwo": "ontinue to query aircraft and have pilots safe approach VID aircraft",
+            "OptionThree": "Alert aircraft to safe approach and VID enemy aircraft",
+            "OptionFour": "Recommend strike group ID aircraft as hostile",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 3,
+            "Question": "Aircrafts drop down to 5,000 ft and accelerate to 650kts on an inbound run towards HVT. 75nm out. The pilots VID the aircraft as an enemy aircraft loaded with heavy weapons. You have been unable to establish communication with the UNK aircrafts and you have 2 fighters trailing them inbounds.", 
+            "OptionOne": "You tell pilots to match speed and altitude and attack angle to intercept",
+            "OptionTwo": "Alert strike group of inbound VID enemy aircraft and recommend treating them as hostiles",
+            "OptionThree": "Ask for recommendations from strike group",
+            "OptionFour": "You continue to query aircraft",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 4,
+            "Question": "Enemy aircraft break radio silence, signifies they are intent on carrying out an attack on the US for the atrocities committed against their people. Early warning indicators alert that a weapons control system is locked on HVT. Aircraft increase speed to 750kts and drop elevation to 2000ft @50nm from HVT. Strike group designates as hostile contact with hostile intent.", 
+            "OptionOne": "Engage hostile targets with 2 aircrafts",
+            "OptionTwo": "Recommend aircraft intercept and destroy inbound hostile targets with Strike permission",
+            "OptionThree": "Continue to query aircraft and keep aircraft in pursuit ask permission from strike group",
+            "OptionFour": "Recommend HVT launch additional air support, get recommendation from the strike group for COA",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 5,
+            "Question": "Pilots disengage once aircrafts are destroyed and returned to HVT with 2 new aircrafts being put in on station", 
+            "OptionOne": "Send all aircrafts to CAP Station",
+            "OptionTwo": "Send attack aircrafts to the HVT. Send new aircrafts to CAP Station",
+            "OptionThree": "Send attack aircrafts to CAP Station. Send new aircrafts to HVT Station",
+            "OptionFour": "Send all aircrafts to HVT",
+            "GreenScore": 2,
+            "YellowScore": 3,
+            "PurpleScore": 4,
+            "RedScore": 1
+        }
+    ],
+    "scenarioTwo": [
+        {
+            "QuestionIndex": 0,
+            "Question": "4 country Orange aircraft take off from mix use airport squawking country orange military aircraft. They go up to 20,000 feet at a speed of 300 kts bearing towards the HVT with a range of 200nm.", 
+            "OptionOne": "Maintain aircraft as unknown verify IFF and flight data",
+            "OptionTwo": "Ask the strike group for ID, manually ID",
+            "OptionThree": "Maintain track as unknown, alert aircrafts on CAP station ",
+            "OptionFour": "Make friendly",
+            "GreenScore": 1,
+            "YellowScore": 2,
+            "PurpleScore": 3,
+            "RedScore": 4
+        },
+        {
+            "QuestionIndex": 1,
+            "Question": "4 Aircrafts deviate from flight plan turn XX degrees away from HVT increase speed to 340kts, 30,000ft altitude, 150nm from HVT, aircraft split into a diamond formation, aircraft do not respond to communication.", 
+            "OptionOne": "Position fighters on CAP 75NM from HVT, continue mission plan",
+            "OptionTwo": "inform strike group of unk aircraft location and movment, move fighters to CAP",
+            "OptionThree": "Move fighters to CAP, alert strike group",
+            "OptionFour": "Make aircraft hostile targets, alertr strike group",
+            "GreenScore": 2,
+            "YellowScore": 1,
+            "PurpleScore": 3,
+            "RedScore": 4
+        },
+        {
+            "QuestionIndex": 2,
+            "Question": "At 180NM from HVT aircrafts drops elevation to 12,000 feet, increases speed 370kts, intel confirms country orange 2 Bombers/2 fighter aircraft, and turn inbound XX degrees towards HVT.", 
+            "OptionOne": "Alert aircraft to safe approach and VID enemy aircraft",
+            "OptionTwo": "Recommend strike group ID aircraft as hostile",
+            "OptionThree": "Continue to monitor aircraft positions",
+            "OptionFour": "Query unk aircraft and alert pilots of inbound aircraft. ",
+            "GreenScore": 4,
+            "YellowScore": 1,
+            "PurpleScore": 2,
+            "RedScore": 3
+        },
+        {
+            "QuestionIndex": 3,
+            "Question": "Aircrafts drop down to 10,000ft and maintain speed on an inbound run 105nm from HVT. Pilots are dispatched to VID aircraft, confirming aircraft as country orange bombers and fighter aircrafts at 80NM from HVT. Fighters are not loaded with weapons. You have been unable to establish communication with the country orange aircrafts. ", 
+            "OptionOne": "Alert strike group of inbound VID enemy aircraft and recommend ID as hostile track",
+            "OptionTwo": "Recommend pilots match speed and altitude on an attack angle to intercept",
+            "OptionThree": "You continue to query aircraft",
+            "OptionFour": "Alert strike group, ask for recommendations",
+            "GreenScore": 1,
+            "YellowScore": 4,
+            "PurpleScore": 3,
+            "RedScore": 2
+        },
+        {
+            "QuestionIndex": 4,
+            "Question": "2 fighter aircraft beak XX degree outbound, and 2 bombers continue inbound run. Bombers break radio silence @75 NM from HVT speaking in broken English then stop. Bombers increase speed to 400kts and drop elevation to 4000ft. Strike group designates as hostile contacts.", 
+            "OptionOne": "Recommend aircraft intercept and destroy inbound hostile targets with Strike permission",
+            "OptionTwo": "Recommend HVT launch additional air support, get recommendation from the strike group for COA",
+            "OptionThree": "Continue to query aircraft and keep aircraft on escort updating strike group",
+            "OptionFour": "Engage hostile targets with 2 aircrafts",
+            "GreenScore": 3,
+            "YellowScore": 1,
+            "PurpleScore": 2,
+            "RedScore": 4
+        },
+        {
+            "QuestionIndex": 5,
+            "Question": "2 Fighter aircraft turn inbound xx degree to the rear of your 2 fighters. 2 Bombers increase speed to 450kt and drops to 2,000ft @35 NM from HVT on a textbook bombing run. Your fighter continue to trail bombers, when Bombers communicate in broken English, Death to America, this is our airspace.", 
+            "OptionOne": "Recommend aircraft intercept and destroy inbound hostile targets with Strike permission",
+            "OptionTwo": "Move fighters next to bombers and tip wings showing munitions",
+            "OptionThree": "Continue to query aircraft and keep aircraft on escort, updating strike group",
+            "OptionFour": "Direct pilots to weapons lock on hostile tracks",
+            "GreenScore": 3,
+            "YellowScore": 4,
+            "PurpleScore": 2,
+            "RedScore": 1
+        },
+        {
+            "QuestionIndex": 6,
+            "Question": "5NM from HVT bombers raise elevation to 4,000 ft, increase speed to 475kts maintaining heading towards HVT. All 4 country orange aircraft pass over HVT turning outbound 5NM after passing HVT. Your fighter continue to escort country orange aircraft until 50 NM from HVT.", 
+            "OptionOne": "null",
+            "OptionTwo": "null",
+            "OptionThree": "null",
+            "OptionFour": "null",
+            "GreenScore": 0,
+            "YellowScore": 0,
+            "PurpleScore": 0,
+            "RedScore": 0
+        }
+    ]
+}
